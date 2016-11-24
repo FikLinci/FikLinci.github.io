@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Austria.html",
+    "currentPage": "index.html",
     "name": "Filip Linhart Portfolio",
     "theme": {
       "name": "mobirise3",
@@ -32,7 +32,7 @@
       "settings": {
         "main": true,
         "title": "Filip Linhart",
-        "meta_descr": "Filip Linhart Photography, Travel, Adventure, Explore, Hong Kong, World, Landscape, ",
+        "meta_descr": "Filip Linhart Photography, Personal Portfolio on Travel and Lifestyle Photography",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
