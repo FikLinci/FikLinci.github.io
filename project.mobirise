@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "MontBlanc.html",
+    "currentPage": "Austria.html",
     "name": "Filip Linhart Portfolio",
     "theme": {
       "name": "mobirise3",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.9.2",
-    "uniqCompNum": 47,
+    "uniqCompNum": 49,
     "versionPublish": "3.9.2",
     "publishType": "github",
     "favicon": "",
@@ -31,8 +31,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "index.html",
-        "meta_descr": "",
+        "title": "Filip Linhart",
+        "meta_descr": "Filip Linhart Photography, Travel, Adventure, Explore, Hong Kong, World, Landscape, ",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
@@ -289,7 +289,7 @@
     "Austria.html": {
       "settings": {
         "meta_descr": "",
-        "title": "Austria.html",
+        "title": "Austria",
         "order": 2
       },
       "components": [
