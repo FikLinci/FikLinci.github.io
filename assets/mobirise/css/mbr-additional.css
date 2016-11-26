@@ -881,18 +881,18 @@ h6,
 }
 #header3-17 H3 {
   font-size: 80px;
+  color: #ffffff;
 }
 #header3-17 B {
   font-size: 24px;
   color: #b8312f;
 }
-#social-buttons2-10 .mbr-section-title,
-#social-buttons2-10 .btn-social {
-  color: #232323;
+#header3-17 SMALL {
+  color: #ffffff;
 }
-#social-buttons2-10 .mbr-section-title {
-  text-align: center;
-  font-size: 36px;
+#social-buttons4-1f .mbr-section-title,
+#social-buttons4-1f .btn-social {
+  color: #fff;
 }
 
 
@@ -959,4 +959,76 @@ h6,
 #menu-g .link[aria-expanded="true"],
 #menu-g .dropdown-item[aria-expanded="true"] {
   color: #ffffff!important;
+}
+
+
+#menu-g .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-g .navbar-caption {
+  color: #ffffff;
+  font-size: 25px;
+  font-family: 'Open Sans', sans-serif;
+}
+#menu-g .navbar-toggler {
+  color: #ffffff;
+}
+#menu-g .close-icon::before,
+#menu-g .close-icon::after {
+  background-color: #ffffff;
+}
+#menu-g .link,
+#menu-g .dropdown-item {
+  color: #ffffff;
+  font-family: 'Source Sans Pro', sans-serif;
+}
+#menu-g .link {
+  font-size: 0.75rem;
+}
+#menu-g .dropdown-item,
+#menu-g .nav-dropdown-sm .link {
+  font-size: 0.812rem;
+}
+#menu-g .link:hover,
+#menu-g .dropdown-item:hover,
+#menu-g .link:focus,
+#menu-g .dropdown-item:focus {
+  color: #ffffff;
+}
+#menu-g .link[aria-expanded="true"],
+#menu-g .dropdown-menu {
+  background: #000000;
+}
+#menu-g .nav-dropdown-sm .link:focus,
+#menu-g .nav-dropdown-sm .link:hover,
+#menu-g .nav-dropdown-sm .dropdown-item:focus,
+#menu-g .nav-dropdown-sm .dropdown-item:hover {
+  background: #000000!important;
+}
+#menu-g .navbar,
+#menu-g .nav-dropdown-sm,
+#menu-g .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-g .nav-dropdown-sm .dropdown-menu {
+  background: #000000;
+}
+#menu-g .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#menu-g .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-g .bg-color.transparent.opened .link:hover,
+#menu-g .bg-color.transparent.opened .link:focus {
+  color: #ffffff;
+}
+#menu-g .link[aria-expanded="true"],
+#menu-g .dropdown-item[aria-expanded="true"] {
+  color: #ffffff!important;
+}
+#form1-1g .form-control-label {
+  color: #232323;
+}
+#form1-1g .mbr-section-title {
+  color: #ffffff;
 }

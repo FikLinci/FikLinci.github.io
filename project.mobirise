@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "Contact.html",
     "name": "Filip Linhart Portfolio",
     "theme": {
       "name": "mobirise3",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.9.2",
-    "uniqCompNum": 49,
+    "uniqCompNum": 53,
     "versionPublish": "3.9.2",
     "publishType": "github",
     "favicon": "",
@@ -132,7 +132,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">FILIP LINHART</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"filiplinhart.cz\" aria-expanded=\"true\">GALLERIES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Austria.html\">Austria</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"China.html\">China</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Budapest.html\">Budapest</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MontBlanc.html\">Mont Blanc</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Thailand.html\">Thailand</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\" aria-expanded=\"false\">ABOUT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"filiplinhart.cz\" aria-expanded=\"false\">GALLERIES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Austria.html\">Austria</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"China.html\">China</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Budapest.html\">Budapest</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MontBlanc.html\">Mont Blanc</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Thailand.html\">Thailand</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\" aria-expanded=\"false\">ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contact.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -386,7 +386,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">FILIP LINHART</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"filiplinhart.cz\" aria-expanded=\"true\">GALLERIES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Austria.html\">Austria</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"China.html\">China</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Budapest.html\">Budapest</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MontBlanc.html\">Mont Blanc</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Thailand.html\">Thailand</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\" aria-expanded=\"false\">ABOUT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"filiplinhart.cz\" aria-expanded=\"false\">GALLERIES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Austria.html\">Austria</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"China.html\">China</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Budapest.html\">Budapest</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MontBlanc.html\">Mont Blanc</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Thailand.html\">Thailand</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\" aria-expanded=\"false\">ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contact.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -620,7 +620,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">FILIP LINHART</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"filiplinhart.cz\" aria-expanded=\"true\">GALLERIES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Austria.html\">Austria</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"China.html\">China</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Budapest.html\">Budapest</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MontBlanc.html\">Mont Blanc</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Thailand.html\">Thailand</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\" aria-expanded=\"false\">ABOUT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"filiplinhart.cz\" aria-expanded=\"false\">GALLERIES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Austria.html\">Austria</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"China.html\">China</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Budapest.html\">Budapest</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MontBlanc.html\">Mont Blanc</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Thailand.html\">Thailand</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\" aria-expanded=\"false\">ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contact.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         }
       ]
     },
@@ -723,7 +723,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">FILIP LINHART</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"filiplinhart.cz\" aria-expanded=\"true\">GALLERIES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Austria.html\">Austria</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"China.html\">China</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Budapest.html\">Budapest</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MontBlanc.html\">Mont Blanc</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Thailand.html\">Thailand</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\" aria-expanded=\"false\">ABOUT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"filiplinhart.cz\" aria-expanded=\"false\">GALLERIES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Austria.html\">Austria</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"China.html\">China</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Budapest.html\">Budapest</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MontBlanc.html\">Mont Blanc</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Thailand.html\">Thailand</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\" aria-expanded=\"false\">ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contact.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -1086,7 +1086,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">FILIP LINHART</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"filiplinhart.cz\" aria-expanded=\"true\">GALLERIES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Austria.html\">Austria</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"China.html\">China</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Budapest.html\">Budapest</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MontBlanc.html\">Mont Blanc</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Thailand.html\">Thailand</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\" aria-expanded=\"false\">ABOUT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"filiplinhart.cz\" aria-expanded=\"false\">GALLERIES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Austria.html\">Austria</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"China.html\">China</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Budapest.html\">Budapest</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MontBlanc.html\">Mont Blanc</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Thailand.html\">Thailand</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\" aria-expanded=\"false\">ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contact.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -1320,7 +1320,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">FILIP LINHART</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"filiplinhart.cz\" aria-expanded=\"true\">GALLERIES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Austria.html\">Austria</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"China.html\">China</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Budapest.html\">Budapest</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MontBlanc.html\">Mont Blanc</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Thailand.html\">Thailand</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\" aria-expanded=\"false\">ABOUT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"filiplinhart.cz\" aria-expanded=\"false\">GALLERIES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Austria.html\">Austria</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"China.html\">China</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Budapest.html\">Budapest</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MontBlanc.html\">Mont Blanc</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Thailand.html\">Thailand</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\" aria-expanded=\"false\">ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contact.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -1644,7 +1644,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">FILIP LINHART</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"filiplinhart.cz\" aria-expanded=\"true\">GALLERIES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Austria.html\">Austria</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"China.html\">China</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Budapest.html\">Budapest</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MontBlanc.html\">Mont Blanc</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Thailand.html\">Thailand</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\" aria-expanded=\"false\">ABOUT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"filiplinhart.cz\" aria-expanded=\"false\">GALLERIES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Austria.html\">Austria</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"China.html\">China</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Budapest.html\">Budapest</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MontBlanc.html\">Mont Blanc</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Thailand.html\">Thailand</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\" aria-expanded=\"false\">ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contact.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_styles": {
@@ -1652,11 +1652,15 @@
               "text-align": "center"
             },
             "H3": {
-              "font-size": "80px"
+              "font-size": "80px",
+              "color": "#ffffff"
             },
             "B": {
               "font-size": "24px",
               "color": "#b8312f"
+            },
+            "SMALL": {
+              "color": "#ffffff"
             }
           },
           "_tags": [
@@ -1665,43 +1669,40 @@
           "_name": "header3",
           "_anchor": "header3-17",
           "_params": {
-            "paddingTop": "6",
+            "paddingTop": "5",
             "paddingBottom": 1,
-            "bgColor": "#fff",
+            "bgColor": "#000000",
             "showMeta": true
           },
-          "title": "<a href=\"index.html\">FILIP LINHART</a>",
+          "title": "FILIP LINHART",
           "meta": "My photo-style follows a simple philosophy - TO BE THERE. You need to be at the right time, on the right spot and with a little bit of luck to take the best shot.<br><br><b><a href=\"index.html\">www.filiplinhart.cz</a></b><b><br></b>"
         },
         {
+          "_inherit": "social-buttons2",
           "_styles": {
             ".mbr-section-title, .btn-social": {
-              "color": "#232323"
-            },
-            ".mbr-section-title": {
-              "text-align": "center",
-              "font-size": "36px"
+              "color": "#fff"
             }
           },
           "_tags": [
             "Theme"
           ],
-          "_name": "social-buttons2",
-          "_anchor": "social-buttons2-10",
+          "_name": "social-buttons4",
+          "_anchor": "social-buttons4-1f",
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
-            "bgColor": "#fff",
+            "bgColor": "#000000",
             "bgColorRadio": true,
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#222"
           },
-          "text": "FOLLOW MY WORK<br>",
-          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/FikLinci\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/filiplinhart/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://hk.linkedin.com/in/filiplinhart\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-linkedin\"></i></a>   "
+          "text": "FOLLOW MY WORK",
+          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/mobirise\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-linkedin\"></i></a>   "
         },
         {
           "_tags": [
@@ -1866,7 +1867,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">FILIP LINHART</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"filiplinhart.cz\" aria-expanded=\"true\">GALLERIES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Austria.html\">Austria</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"China.html\">China</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Budapest.html\">Budapest</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MontBlanc.html\">Mont Blanc</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Thailand.html\">Thailand</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\" aria-expanded=\"false\">ABOUT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"filiplinhart.cz\" aria-expanded=\"false\">GALLERIES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Austria.html\">Austria</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"China.html\">China</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Budapest.html\">Budapest</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MontBlanc.html\">Mont Blanc</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Thailand.html\">Thailand</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\" aria-expanded=\"false\">ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contact.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -1958,6 +1959,168 @@
           "_anchor": "gallery1-i",
           "articleLayout": false,
           "allItem": "All"
+        }
+      ]
+    },
+    "Contact.html": {
+      "settings": {
+        "title": "Filip Linhart"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-size": "25px",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,700",
+              "font-family": "'Source Sans Pro', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#000000!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#ffffff!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-g",
+          "_params": {
+            "bgColor": "#000000",
+            "fontSize": 0.75,
+            "fontName": {
+              "name": "Source Sans Pro",
+              "url": "https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,700",
+              "css": "'Source Sans Pro', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/fl-128x128-48.png",
+              "height": 128,
+              "alt": "Filip Linhart",
+              "link": "index.html",
+              "title": "Filip Linhart",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">FILIP LINHART</a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"filiplinhart.cz\" aria-expanded=\"false\">GALLERIES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Austria.html\">Austria</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"China.html\">China</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Budapest.html\">Budapest</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MontBlanc.html\">Mont Blanc</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Thailand.html\">Thailand</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\" aria-expanded=\"false\">ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contact.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_anchor": "form1-1g",
+          "_params": {
+            "labelsColor": "#232323",
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubTitle": true
+          },
+          "title": "ANY FEEDBACK? IDEAS? OR WANT TO CONNECT?",
+          "subtitle": "<br>There are always many things to learn and improve! <br><br>Thank you for leaving your feedback or comments on my work. Appreciate any ideas on new projects, joint-projects or workshops. If you want to connect, you can follow my social media profiles or just leave youre message below. Thank you very much!",
+          "form": {
+            "action": "linhart.f@gmail.com",
+            "alerts": {
+              "success": "Thank you for reaching out to me! I will get back to you shortly. Regards, Filip"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": false,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Feedback, Ideas, Connection Request"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-warning\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT FILIP</a>",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            }
+          }
         }
       ]
     }
