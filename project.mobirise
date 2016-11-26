@@ -398,7 +398,7 @@
           "_params": {
             "parallax": true,
             "bgImageRadio": true,
-            "showArrow": false,
+            "showArrow": true,
             "bgImage": "@PROJECT_PATH@/assets/images/dsc-0795-2000x1324-80.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
@@ -652,7 +652,7 @@
           "_params": {
             "parallax": true,
             "bgImageRadio": true,
-            "showArrow": false,
+            "showArrow": true,
             "bgImage": "@PROJECT_PATH@/assets/images/dsc-0241-2000x1324-5.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
@@ -1035,7 +1035,7 @@
           "_params": {
             "parallax": true,
             "bgImageRadio": true,
-            "showArrow": false,
+            "showArrow": true,
             "bgImage": "@PROJECT_PATH@/assets/images/dsc-0739-2-2000x1324-62.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
@@ -1289,7 +1289,7 @@
           "_params": {
             "parallax": true,
             "bgImageRadio": true,
-            "showArrow": false,
+            "showArrow": true,
             "bgImage": "@PROJECT_PATH@/assets/images/dsc-0517-2000x1324-63.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
@@ -1856,7 +1856,7 @@
           "_params": {
             "parallax": true,
             "bgImageRadio": true,
-            "showArrow": false,
+            "showArrow": true,
             "bgImage": "@PROJECT_PATH@/assets/images/obrzek231-2000x1376-5.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
@@ -2234,7 +2234,7 @@
           "_params": {
             "parallax": true,
             "bgImageRadio": true,
-            "showArrow": false,
+            "showArrow": true,
             "bgImage": "@PROJECT_PATH@/assets/images/160816-vietnam2016-fli-02570257-1.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
