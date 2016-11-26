@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "Vietnam.html",
     "name": "Filip Linhart Portfolio",
     "theme": {
       "name": "mobirise3",
@@ -1628,7 +1628,7 @@
     "About.html": {
       "settings": {
         "title": "About.html",
-        "order": 8
+        "order": 9
       },
       "components": [
         {
@@ -2064,7 +2064,8 @@
     },
     "Contact.html": {
       "settings": {
-        "title": "Filip Linhart"
+        "title": "Filip Linhart",
+        "order": 10
       },
       "components": [
         {
@@ -2227,7 +2228,8 @@
     "Vietnam.html": {
       "settings": {
         "title": "Filip Linhart",
-        "meta_descr": "One month trip to Vietnam, August 2016, Adventure, Travelling"
+        "meta_descr": "One month trip to Vietnam, August 2016, Adventure, Travelling",
+        "order": 8
       },
       "components": [
         {
@@ -2610,7 +2612,7 @@
             "bgColor": "#000000",
             "filterBgColor": false,
             "fullWidth": false,
-            "showBullets": true
+            "showBullets": false
           },
           "_anchor": "gallery1-1j",
           "articleLayout": false,
