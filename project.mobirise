@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "Vietnam.html",
     "name": "Filip Linhart Portfolio",
     "theme": {
       "name": "mobirise3",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.9.2",
-    "uniqCompNum": 53,
+    "uniqCompNum": 57,
     "versionPublish": "3.9.2",
     "publishType": "github",
     "favicon": "",
@@ -132,7 +132,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">FILIP LINHART</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"filiplinhart.cz\" aria-expanded=\"false\">GALLERIES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Austria.html\">Austria</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"China.html\">China</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Budapest.html\">Budapest</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MontBlanc.html\">Mont Blanc</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Thailand.html\">Thailand</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\" aria-expanded=\"false\">ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contact.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"filiplinhart.cz\" aria-expanded=\"true\">GALLERIES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Austria.html\">Austria</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"China.html\">China</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Budapest.html\">Budapest</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MontBlanc.html\">Mont Blanc</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Thailand.html\">Thailand</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Vietnam.html\">Vietnam</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\" aria-expanded=\"false\">ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contact.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -386,7 +386,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">FILIP LINHART</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"filiplinhart.cz\" aria-expanded=\"false\">GALLERIES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Austria.html\">Austria</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"China.html\">China</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Budapest.html\">Budapest</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MontBlanc.html\">Mont Blanc</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Thailand.html\">Thailand</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\" aria-expanded=\"false\">ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contact.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"filiplinhart.cz\" aria-expanded=\"true\">GALLERIES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Austria.html\">Austria</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"China.html\">China</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Budapest.html\">Budapest</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MontBlanc.html\">Mont Blanc</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Thailand.html\">Thailand</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Vietnam.html\">Vietnam</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\" aria-expanded=\"false\">ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contact.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -518,6 +518,26 @@
           "_anchor": "gallery1-k",
           "articleLayout": false,
           "allItem": "All"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-1k",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2016 Filip Linhart."
         }
       ]
     },
@@ -620,7 +640,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">FILIP LINHART</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"filiplinhart.cz\" aria-expanded=\"false\">GALLERIES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Austria.html\">Austria</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"China.html\">China</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Budapest.html\">Budapest</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MontBlanc.html\">Mont Blanc</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Thailand.html\">Thailand</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\" aria-expanded=\"false\">ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contact.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"filiplinhart.cz\" aria-expanded=\"true\">GALLERIES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Austria.html\">Austria</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"China.html\">China</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Budapest.html\">Budapest</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MontBlanc.html\">Mont Blanc</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Thailand.html\">Thailand</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Vietnam.html\">Vietnam</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\" aria-expanded=\"false\">ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contact.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         }
       ]
     },
@@ -723,7 +743,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">FILIP LINHART</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"filiplinhart.cz\" aria-expanded=\"false\">GALLERIES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Austria.html\">Austria</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"China.html\">China</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Budapest.html\">Budapest</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MontBlanc.html\">Mont Blanc</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Thailand.html\">Thailand</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\" aria-expanded=\"false\">ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contact.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"filiplinhart.cz\" aria-expanded=\"true\">GALLERIES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Austria.html\">Austria</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"China.html\">China</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Budapest.html\">Budapest</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MontBlanc.html\">Mont Blanc</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Thailand.html\">Thailand</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Vietnam.html\">Vietnam</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\" aria-expanded=\"false\">ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contact.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -985,6 +1005,26 @@
           "_anchor": "gallery1-r",
           "articleLayout": false,
           "allItem": "All"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-1k",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2016 Filip Linhart."
         }
       ]
     },
@@ -1086,7 +1126,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">FILIP LINHART</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"filiplinhart.cz\" aria-expanded=\"false\">GALLERIES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Austria.html\">Austria</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"China.html\">China</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Budapest.html\">Budapest</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MontBlanc.html\">Mont Blanc</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Thailand.html\">Thailand</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\" aria-expanded=\"false\">ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contact.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"filiplinhart.cz\" aria-expanded=\"true\">GALLERIES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Austria.html\">Austria</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"China.html\">China</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Budapest.html\">Budapest</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MontBlanc.html\">Mont Blanc</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Thailand.html\">Thailand</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Vietnam.html\">Vietnam</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\" aria-expanded=\"false\">ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contact.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -1218,6 +1258,26 @@
           "_anchor": "gallery1-p",
           "articleLayout": false,
           "allItem": "All"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-1k",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2016 Filip Linhart."
         }
       ]
     },
@@ -1320,7 +1380,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">FILIP LINHART</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"filiplinhart.cz\" aria-expanded=\"false\">GALLERIES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Austria.html\">Austria</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"China.html\">China</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Budapest.html\">Budapest</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MontBlanc.html\">Mont Blanc</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Thailand.html\">Thailand</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\" aria-expanded=\"false\">ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contact.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"filiplinhart.cz\" aria-expanded=\"true\">GALLERIES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Austria.html\">Austria</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"China.html\">China</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Budapest.html\">Budapest</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MontBlanc.html\">Mont Blanc</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Thailand.html\">Thailand</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Vietnam.html\">Vietnam</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\" aria-expanded=\"false\">ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contact.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -1542,6 +1602,26 @@
           "_anchor": "gallery1-u",
           "articleLayout": false,
           "allItem": "All"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-1k",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2016 Filip Linhart."
         }
       ]
     },
@@ -1644,7 +1724,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">FILIP LINHART</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"filiplinhart.cz\" aria-expanded=\"false\">GALLERIES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Austria.html\">Austria</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"China.html\">China</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Budapest.html\">Budapest</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MontBlanc.html\">Mont Blanc</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Thailand.html\">Thailand</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\" aria-expanded=\"false\">ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contact.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"filiplinhart.cz\" aria-expanded=\"true\">GALLERIES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Austria.html\">Austria</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"China.html\">China</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Budapest.html\">Budapest</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MontBlanc.html\">Mont Blanc</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Thailand.html\">Thailand</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Vietnam.html\">Vietnam</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\" aria-expanded=\"false\">ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contact.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_styles": {
@@ -1867,7 +1947,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">FILIP LINHART</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"filiplinhart.cz\" aria-expanded=\"false\">GALLERIES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Austria.html\">Austria</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"China.html\">China</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Budapest.html\">Budapest</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MontBlanc.html\">Mont Blanc</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Thailand.html\">Thailand</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\" aria-expanded=\"false\">ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contact.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"filiplinhart.cz\" aria-expanded=\"true\">GALLERIES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Austria.html\">Austria</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"China.html\">China</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Budapest.html\">Budapest</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MontBlanc.html\">Mont Blanc</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Thailand.html\">Thailand</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Vietnam.html\">Vietnam</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\" aria-expanded=\"false\">ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contact.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -1959,6 +2039,26 @@
           "_anchor": "gallery1-i",
           "articleLayout": false,
           "allItem": "All"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-1k",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2016 Filip Linhart."
         }
       ]
     },
@@ -2060,7 +2160,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">FILIP LINHART</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"filiplinhart.cz\" aria-expanded=\"false\">GALLERIES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Austria.html\">Austria</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"China.html\">China</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Budapest.html\">Budapest</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MontBlanc.html\">Mont Blanc</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Thailand.html\">Thailand</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\" aria-expanded=\"false\">ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contact.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"filiplinhart.cz\" aria-expanded=\"true\">GALLERIES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Austria.html\">Austria</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"China.html\">China</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Budapest.html\">Budapest</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MontBlanc.html\">Mont Blanc</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Thailand.html\">Thailand</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Vietnam.html\">Vietnam</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\" aria-expanded=\"false\">ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contact.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -2121,6 +2221,420 @@
             }
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-warning\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT FILIP</a>"
+        }
+      ]
+    },
+    "Vietnam.html": {
+      "settings": {
+        "title": "Filip Linhart",
+        "meta_descr": "One month trip to Vietnam, August 2016, Adventure, Travelling"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-size": "25px",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,700",
+              "font-family": "'Source Sans Pro', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#000000!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#ffffff!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-1h",
+          "_params": {
+            "bgColor": "#000000",
+            "fontSize": 0.75,
+            "fontName": {
+              "name": "Source Sans Pro",
+              "url": "https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,700",
+              "css": "'Source Sans Pro', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/fl-128x128-48.png",
+              "height": 128,
+              "alt": "Filip Linhart",
+              "link": "index.html",
+              "title": "Filip Linhart",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">FILIP LINHART</a>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"filiplinhart.cz\" aria-expanded=\"true\">GALLERIES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Austria.html\">Austria</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"China.html\">China</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Budapest.html\">Budapest</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MontBlanc.html\">Mont Blanc</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Thailand.html\">Thailand</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Vietnam.html\">Vietnam</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\" aria-expanded=\"false\">ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contact.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-1i",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/160821-vietnam2016-fli-00790079-1.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "title": "VIETNAM",
+          "text": "Vietnam is a country of neverending hospitality, friendliness and great food. We visited Vietnam in 2016 and enjoyed each kilometer of our 2 700 km long journey.&nbsp;",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_params": {
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "images": [
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/160813-vietnam2016-fli-11981198-4784x3169-48.jpg",
+                "image": "@PROJECT_PATH@/assets/images/160813-vietnam2016-fli-11981198.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/160815-vietnam2016-fli-01690169-4928x3264-68.jpg",
+                "image": "@PROJECT_PATH@/assets/images/160815-vietnam2016-fli-01690169.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/160816-vietnam2016-fli-02450245-3264x4928-63.jpg",
+                "image": "@PROJECT_PATH@/assets/images/160816-vietnam2016-fli-02450245.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/160816-vietnam2016-fli-02570257-3892x2578-23.jpg",
+                "image": "@PROJECT_PATH@/assets/images/160816-vietnam2016-fli-02570257.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/160818-vietnam2016-fli-05110511-4277x2833-4.jpg",
+                "image": "@PROJECT_PATH@/assets/images/160818-vietnam2016-fli-05110511.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/160819-vietnam2016-fli-05500550-3264x4928-98.jpg",
+                "image": "@PROJECT_PATH@/assets/images/160819-vietnam2016-fli-05500550.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/160819-vietnam2016-fli-05960596-4928x3264-0.jpg",
+                "image": "@PROJECT_PATH@/assets/images/160819-vietnam2016-fli-05960596.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/160819-vietnam2016-fli-06080608-4928x3264-48.jpg",
+                "image": "@PROJECT_PATH@/assets/images/160819-vietnam2016-fli-06080608.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/160819-vietnam2016-fli-06660666-4840x3206-4.jpg",
+                "image": "@PROJECT_PATH@/assets/images/160819-vietnam2016-fli-06660666.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/160821-vietnam2016-fli-00790079-4778x3165-12.jpg",
+                "image": "@PROJECT_PATH@/assets/images/160821-vietnam2016-fli-00790079.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/160821-vietnam2016-fli-01800180-4928x3264-93.jpg",
+                "image": "@PROJECT_PATH@/assets/images/160821-vietnam2016-fli-01800180.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/160821-vietnam2016-fli-02400240-4651x3081-54.jpg",
+                "image": "@PROJECT_PATH@/assets/images/160821-vietnam2016-fli-02400240.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/160821-vietnam2016-fli-10001000-3042x4593-85.jpg",
+                "image": "@PROJECT_PATH@/assets/images/160821-vietnam2016-fli-10001000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/160823-vietnam2016-fli-03210321-4919x2011-66.jpg",
+                "image": "@PROJECT_PATH@/assets/images/160823-vietnam2016-fli-03210321.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/160825-vietnam2016-fli-06230623-4732x3134-34.jpg",
+                "image": "@PROJECT_PATH@/assets/images/160825-vietnam2016-fli-06230623.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/160825-vietnam2016-fli-07920792-3264x4928-31.jpg",
+                "image": "@PROJECT_PATH@/assets/images/160825-vietnam2016-fli-07920792.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/160827-vietnam2016-fli-09790979-4928x3264-1.jpg",
+                "image": "@PROJECT_PATH@/assets/images/160827-vietnam2016-fli-09790979.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/160829-vietnam2016-fli-04270427-2686x4055-57.jpg",
+                "image": "@PROJECT_PATH@/assets/images/160829-vietnam2016-fli-04270427.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/160830-vietnam2016-fli-06860686-4928x3264-38.jpg",
+                "image": "@PROJECT_PATH@/assets/images/160830-vietnam2016-fli-06860686.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/160831-vietnam2016-fli-08290829-4928x3264-23.jpg",
+                "image": "@PROJECT_PATH@/assets/images/160831-vietnam2016-fli-08290829.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/160831-vietnam2016-fli-08900890-3005x4537-35.jpg",
+                "image": "@PROJECT_PATH@/assets/images/160831-vietnam2016-fli-08900890.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/160901-vietnam2016-fli-00300030-4715x3123-8.jpg",
+                "image": "@PROJECT_PATH@/assets/images/160901-vietnam2016-fli-00300030.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/160901-vietnam2016-fli-03810381-4877x2503-85.jpg",
+                "image": "@PROJECT_PATH@/assets/images/160901-vietnam2016-fli-03810381.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/160901-vietnam2016-fli-09430943-4627x3065-26.jpg",
+                "image": "@PROJECT_PATH@/assets/images/160901-vietnam2016-fli-09430943.jpg",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ],
+            "spacing": "1",
+            "showText": false,
+            "filter": false,
+            "bgColor": "#000000",
+            "filterBgColor": false,
+            "fullWidth": false,
+            "showBullets": true
+          },
+          "_anchor": "gallery1-1j",
+          "articleLayout": false,
+          "allItem": "All"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-1k",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2016 Filip Linhart."
         }
       ]
     }
