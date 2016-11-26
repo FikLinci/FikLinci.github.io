@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.9.2",
-    "uniqCompNum": 57,
+    "uniqCompNum": 58,
     "versionPublish": "3.9.2",
     "publishType": "github",
     "favicon": "",
@@ -2332,19 +2332,19 @@
             "Theme"
           ],
           "_name": "header1",
-          "_anchor": "header1-1i",
+          "_anchor": "header1-1l",
           "_params": {
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/160821-vietnam2016-fli-00790079-1.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/obrzek231-2000x1376-51.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
-            "overlay": true,
+            "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#000",
             "contentAlign": "center",
@@ -2353,7 +2353,7 @@
             "showButtons": false
           },
           "title": "VIETNAM",
-          "text": "Vietnam is a country of neverending hospitality, friendliness and great food. We visited Vietnam in 2016 and enjoyed each kilometer of our 2 700 km long journey.&nbsp;",
+          "text": "Vietnam is a country of neverending hospitality, friendliness and great food. We visited Vietnam in 2016 and enjoyed each kilometer of our 2 700 km long journey.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         },
         {
