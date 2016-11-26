@@ -2334,7 +2334,7 @@
           "_name": "header1",
           "_anchor": "header1-1l",
           "_params": {
-            "parallax": false,
+            "parallax": true,
             "bgImageRadio": true,
             "showArrow": false,
             "bgImage": "@PROJECT_PATH@/assets/images/160821-vietnam2016-fli-00790079-4.jpg",
