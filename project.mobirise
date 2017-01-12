@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "About.html",
     "name": "Filip Linhart Portfolio",
     "theme": {
       "name": "mobirise3",
@@ -17,13 +17,12 @@
         "textFont": "Raleway",
         "isRoundedButtons": false,
         "isAnimatedOnScroll": false,
-        "isScrollToTopButton": true
+        "isScrollToTopButton": false
       }
     },
     "versionFirst": "3.9.2",
-    "uniqCompNum": 63,
-    "versionPublish": "3.9.2",
-    "publishType": "github",
+    "uniqCompNum": 64,
+    "versionPublish": "3.10.4",
     "favicon": "",
     "noImageResize": "true",
     "google-analytics": "<script>\r\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\r\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\r\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\r\n  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\r\n\r\n  ga('create', 'UA-88040582-1', 'auto');\r\n  ga('send', 'pageview');\r\n\r\n</script>"
@@ -1630,7 +1629,7 @@
               "text-align": "center"
             },
             "H3": {
-              "font-size": "80px",
+              "font-size": "36px",
               "color": "#ffffff"
             },
             "B": {
@@ -1638,7 +1637,9 @@
               "color": "#b8312f"
             },
             "SMALL": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-size": "18px",
+              "text-align": "right"
             }
           },
           "_tags": [
@@ -1648,18 +1649,21 @@
           "_anchor": "header3-17",
           "_params": {
             "paddingTop": "5",
-            "paddingBottom": 1,
+            "paddingBottom": "4",
             "bgColor": "#000000",
             "showMeta": true
           },
-          "title": "FILIP LINHART",
-          "meta": "My photo-style follows a simple philosophy - TO BE THERE. You need to be at the right time, on the right spot and with a little bit of luck to take the best shot.<br><br><b><a href=\"index.html\">www.filiplinhart.cz</a></b><b><br></b>"
+          "title": "FILIP LINHART<br><br>",
+          "meta": "Filip Linhart was born in 1990 in the former Czechoslovakia. After the completion of his business studies in 2015, he moved to Hong Kong to be closer to his biggest passion - travelling in Asia. He first visited the continent when he won his free flight ticket to represent the Czech republic in the international case study competition in 2013. After this event, he and his girlfriend took their backpacks and have been travelling since then off the beaten tracks in countries like Vietnam, Thailand, Taiwan or China. He is fascinated by the contrasts between the fast-developing cities and less developed, often frozen in times countrysides, natural wonders and local people's lives. He especially likes to capture the lives of the people in the remote areas for their honest happines and the purity of the nature not destroyed by the human footprint. He has learnt his photography skills on the go&nbsp;by experimenting with lights, composition and the overall atmosphere and loves to integrate himself with the people or the situation. His photos has been featured in travel magazines in the Czech Republic as well as won several prices in the student photography contests.<br><br><b><a href=\"index.html\">www.filiplinhart.cz</a></b><b><br></b>"
         },
         {
           "_inherit": "social-buttons2",
           "_styles": {
             ".mbr-section-title, .btn-social": {
               "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "font-size": "36px"
             }
           },
           "_tags": [
@@ -1668,8 +1672,8 @@
           "_name": "social-buttons4",
           "_anchor": "social-buttons4-1f",
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingTop": "0",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
@@ -1680,69 +1684,27 @@
             "overlayColor": "#222"
           },
           "text": "FOLLOW MY WORK",
-          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/mobirise\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-linkedin\"></i></a>   "
+          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" href=\"https://www.facebook.com/FikLinci?ref=bookmarks\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/filiplinhart/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://hk.linkedin.com/in/filiplinhart\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-linkedin\"></i></a>   "
         },
         {
           "_tags": [
             "Theme"
           ],
-          "_name": "gallery1",
+          "_name": "footer1",
+          "_anchor": "footer1-1r",
           "_params": {
-            "paddingTop": 0,
-            "paddingBottom": 0,
-            "images": [
-              {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc-0870-edit-edit-2000x1324-75-2000x1324-36.jpg",
-                "image": "@PROJECT_PATH@/assets/images/dsc-0870-edit-edit-2000x1324-75.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Responsive",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc-0061-copy-2000x1324-68-2000x1324-57.jpg",
-                "image": "@PROJECT_PATH@/assets/images/dsc-0061-copy-2000x1324-68.jpg",
-                "caption": "Type caption here",
-                "active": true
-              },
-              {
-                "tags": "Creative",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc-0987-2000x1324-17-2000x1324-62.jpg",
-                "image": "@PROJECT_PATH@/assets/images/dsc-0987-2000x1324-17.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc-0862-2-2000x1324-96-2000x1324-10.jpg",
-                "image": "@PROJECT_PATH@/assets/images/dsc-0862-2-2000x1324-96.jpg",
-                "caption": "Type caption here",
-                "active": false
-              }
-            ],
-            "spacing": 0,
-            "showText": false,
-            "filter": false,
-            "bgColor": "#FFFFFF",
-            "filterBgColor": false,
-            "fullWidth": false,
-            "showBullets": true
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
           },
-          "_anchor": "gallery1-18",
-          "articleLayout": false,
-          "allItem": "All"
+          "text": "Copyright (c) 2016 Filip Linhart."
         }
       ]
     },

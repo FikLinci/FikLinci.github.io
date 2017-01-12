@@ -412,6 +412,9 @@ h6,
 .mbr-gallery-filter li:hover {
   color: #ffffff;
 }
+.scrollToTop_wraper {
+  opacity: 0 !important;
+}
 #menu-4 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -814,7 +817,7 @@ h6,
   text-align: center;
 }
 #header3-17 H3 {
-  font-size: 80px;
+  font-size: 36px;
   color: #ffffff;
 }
 #header3-17 B {
@@ -823,10 +826,15 @@ h6,
 }
 #header3-17 SMALL {
   color: #ffffff;
+  font-size: 18px;
+  text-align: right;
 }
 #social-buttons4-1f .mbr-section-title,
 #social-buttons4-1f .btn-social {
   color: #fff;
+}
+#social-buttons4-1f .mbr-section-title {
+  font-size: 36px;
 }
 
 
