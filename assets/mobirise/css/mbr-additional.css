@@ -413,7 +413,7 @@ h6,
   color: #d14841;
 }
 .scrollToTop_wraper {
-  display: none;
+  opacity: 0 !important;
 }
 #menu-4 .hide-buttons .nav-btn {
   display: none !important;
@@ -477,7 +477,7 @@ h6,
 }
 #menu-4 .link[aria-expanded="true"],
 #menu-4 .dropdown-item[aria-expanded="true"] {
-  color: #ffffff!important;
+  color: #d14841!important;
 }
 #slider-3 H2 {
   font-size: 23px;
@@ -1159,7 +1159,7 @@ h6,
 }
 #menu-23 .link[aria-expanded="true"],
 #menu-23 .dropdown-item[aria-expanded="true"] {
-  color: #ffffff!important;
+  color: #d14841!important;
 }
 
 

@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "About.html",
+    "currentPage": "index.html",
     "name": "Filip Linhart Portfolio",
     "theme": {
       "name": "mobirise3",
@@ -24,7 +24,7 @@
     },
     "versionFirst": "3.9.2",
     "uniqCompNum": 101,
-    "versionPublish": "4.7.2",
+    "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": "true",
     "google-analytics": "<script>\r\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\r\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\r\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\r\n  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\r\n\r\n  ga('create', 'UA-88040582-1', 'auto');\r\n  ga('send', 'pageview');\r\n\r\n</script>",
@@ -94,7 +94,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#ffffff!important"
+              "color": "#d14841!important"
             }
           },
           "_tags": [
@@ -103,12 +103,6 @@
           "_name": "menu",
           "_anchor": "menu-4",
           "_params": {
-            "logo": true,
-            "showBrand": true,
-            "hideButtons": false,
-            "sticky": true,
-            "collapsed": true,
-            "transparent": true,
             "bgColor": "#000000",
             "fontSize": "0.9",
             "fontName": {
@@ -117,7 +111,13 @@
               "css": "'Source Sans Pro', sans-serif"
             },
             "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor"
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
           },
           "logo": {
             "image": {
@@ -150,11 +150,8 @@
           },
           "_params": {
             "autoplay": true,
-            "fullScreen": true,
             "paddingTop": 3,
             "paddingBottom": 3,
-            "showBullets": true,
-            "bgColor": "#fff",
             "timeout": "5",
             "slides": [
               {
@@ -269,7 +266,10 @@
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               }
-            ]
+            ],
+            "fullScreen": true,
+            "bgColor": "#fff",
+            "showBullets": true
           },
           "_anchor": "slider-3",
           "articleLayout": false
@@ -343,12 +343,6 @@
           "_name": "menu",
           "_anchor": "menu-23",
           "_params": {
-            "logo": true,
-            "showBrand": true,
-            "hideButtons": false,
-            "sticky": true,
-            "collapsed": true,
-            "transparent": true,
             "bgColor": "#000000",
             "fontSize": "0.9",
             "fontName": {
@@ -357,7 +351,13 @@
               "css": "'Source Sans Pro', sans-serif"
             },
             "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor"
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
           },
           "logo": {
             "image": {
@@ -385,23 +385,23 @@
           "_name": "header1",
           "_anchor": "header1-j",
           "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "showArrow": true,
-            "contentAlign": "center",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/dsc-0795-2000x1324-80.jpg",
             "parallax": true,
-            "bgColorRadio": false,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/dsc-0795-2000x1324-80.jpg",
             "bgColor": "#a07e49",
-            "bgVideoRadio": false,
+            "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
+            "bgVideoRadio": false,
             "overlay": true,
+            "overlayOpacity": "0.3",
             "overlayColor": "#000",
-            "overlayOpacity": "0.3"
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
           },
           "title": "AUSTRIA",
           "text": "Place where I spent 2 years during my studies and it was not enought at all. <br>&nbsp;Place where I met amazing people. Place that changed my life.&nbsp;",
@@ -413,15 +413,8 @@
           ],
           "_name": "gallery1",
           "_params": {
-            "showBullets": false,
-            "fullWidth": false,
-            "spacing": "1",
             "paddingTop": 0,
             "paddingBottom": 0,
-            "filterBgColor": false,
-            "bgColor": "#000000",
-            "showText": false,
-            "filter": false,
             "images": [
               {
                 "tags": "Animated",
@@ -503,7 +496,14 @@
                 "caption": "Type caption here",
                 "active": true
               }
-            ]
+            ],
+            "spacing": "1",
+            "showText": false,
+            "filter": false,
+            "bgColor": "#000000",
+            "filterBgColor": false,
+            "fullWidth": false,
+            "showBullets": false
           },
           "_anchor": "gallery1-k",
           "articleLayout": false,
@@ -519,13 +519,13 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "bgColor": "#000000",
+            "bgColorRadio": true,
             "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
           },
           "text": "Copyright (c) 2017-2018 Filip Linhart."
         }
@@ -597,12 +597,6 @@
           "_name": "menu",
           "_anchor": "menu-23",
           "_params": {
-            "logo": true,
-            "showBrand": true,
-            "hideButtons": false,
-            "sticky": true,
-            "collapsed": true,
-            "transparent": true,
             "bgColor": "#000000",
             "fontSize": "0.9",
             "fontName": {
@@ -611,7 +605,13 @@
               "css": "'Source Sans Pro', sans-serif"
             },
             "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor"
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
           },
           "logo": {
             "image": {
@@ -639,23 +639,23 @@
           "_name": "header1",
           "_anchor": "header1-q",
           "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "showArrow": true,
-            "contentAlign": "center",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/dsc-0241-2000x1324-5.jpg",
             "parallax": true,
-            "bgColorRadio": false,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/dsc-0241-2000x1324-5.jpg",
             "bgColor": "#a07e49",
-            "bgVideoRadio": false,
+            "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
+            "bgVideoRadio": false,
             "overlay": true,
+            "overlayOpacity": "0.3",
             "overlayColor": "#000",
-            "overlayOpacity": "0.3"
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
           },
           "title": "CHINA",
           "text": "Raw countryside, rough country.",
@@ -667,15 +667,8 @@
           ],
           "_name": "gallery1",
           "_params": {
-            "showBullets": false,
-            "fullWidth": false,
-            "spacing": "1",
             "paddingTop": 0,
             "paddingBottom": 0,
-            "filterBgColor": false,
-            "bgColor": "#000000",
-            "showText": false,
-            "filter": false,
             "images": [
               {
                 "tags": "Animated",
@@ -887,7 +880,14 @@
                 "caption": "Type caption here",
                 "active": true
               }
-            ]
+            ],
+            "spacing": "1",
+            "showText": false,
+            "filter": false,
+            "bgColor": "#000000",
+            "filterBgColor": false,
+            "fullWidth": false,
+            "showBullets": false
           },
           "_anchor": "gallery1-r",
           "articleLayout": false,
@@ -903,13 +903,13 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "bgColor": "#000000",
+            "bgColorRadio": true,
             "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
           },
           "text": "Copyright (c) 2017-2018 Filip Linhart."
         }
@@ -981,12 +981,6 @@
           "_name": "menu",
           "_anchor": "menu-23",
           "_params": {
-            "logo": true,
-            "showBrand": true,
-            "hideButtons": false,
-            "sticky": true,
-            "collapsed": true,
-            "transparent": true,
             "bgColor": "#000000",
             "fontSize": "0.9",
             "fontName": {
@@ -995,7 +989,13 @@
               "css": "'Source Sans Pro', sans-serif"
             },
             "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor"
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
           },
           "logo": {
             "image": {
@@ -1023,23 +1023,23 @@
           "_name": "header1",
           "_anchor": "header1-o",
           "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "showArrow": true,
-            "contentAlign": "center",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/dsc-0739-2-2000x1324-62.jpg",
             "parallax": true,
-            "bgColorRadio": false,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/dsc-0739-2-2000x1324-62.jpg",
             "bgColor": "#a07e49",
-            "bgVideoRadio": false,
+            "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
+            "bgVideoRadio": false,
             "overlay": true,
+            "overlayOpacity": "0.3",
             "overlayColor": "#000",
-            "overlayOpacity": "0.3"
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
           },
           "title": "BUDAPEST",
           "text": "The capital of Hungary and the capital for our summer of 2014.",
@@ -1051,15 +1051,8 @@
           ],
           "_name": "gallery1",
           "_params": {
-            "showBullets": false,
-            "fullWidth": false,
-            "spacing": "1",
             "paddingTop": 0,
             "paddingBottom": 0,
-            "filterBgColor": false,
-            "bgColor": "#000000",
-            "showText": false,
-            "filter": false,
             "images": [
               {
                 "tags": "Animated",
@@ -1141,7 +1134,14 @@
                 "caption": "Type caption here",
                 "active": true
               }
-            ]
+            ],
+            "spacing": "1",
+            "showText": false,
+            "filter": false,
+            "bgColor": "#000000",
+            "filterBgColor": false,
+            "fullWidth": false,
+            "showBullets": false
           },
           "_anchor": "gallery1-p",
           "articleLayout": false,
@@ -1157,13 +1157,13 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "bgColor": "#000000",
+            "bgColorRadio": true,
             "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
           },
           "text": "Copyright (c) 2017-2018 Filip Linhart."
         }
@@ -1235,12 +1235,6 @@
           "_name": "menu",
           "_anchor": "menu-23",
           "_params": {
-            "logo": true,
-            "showBrand": true,
-            "hideButtons": false,
-            "sticky": true,
-            "collapsed": true,
-            "transparent": true,
             "bgColor": "#000000",
             "fontSize": "0.9",
             "fontName": {
@@ -1249,7 +1243,13 @@
               "css": "'Source Sans Pro', sans-serif"
             },
             "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor"
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
           },
           "logo": {
             "image": {
@@ -1277,23 +1277,23 @@
           "_name": "header1",
           "_anchor": "header1-t",
           "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "showArrow": true,
-            "contentAlign": "center",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/dsc-0517-2000x1324-63.jpg",
             "parallax": true,
-            "bgColorRadio": false,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/dsc-0517-2000x1324-63.jpg",
             "bgColor": "#a07e49",
-            "bgVideoRadio": false,
+            "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
+            "bgVideoRadio": false,
             "overlay": true,
+            "overlayOpacity": "0.3",
             "overlayColor": "#000",
-            "overlayOpacity": "0.3"
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
           },
           "title": "THAILAND",
           "text": "Our first trip to Asia.",
@@ -1305,15 +1305,8 @@
           ],
           "_name": "gallery1",
           "_params": {
-            "showBullets": false,
-            "fullWidth": false,
-            "spacing": "1",
             "paddingTop": 0,
             "paddingBottom": 0,
-            "filterBgColor": false,
-            "bgColor": "#000000",
-            "showText": false,
-            "filter": false,
             "images": [
               {
                 "tags": "Animated",
@@ -1485,7 +1478,14 @@
                 "caption": "Type caption here",
                 "active": true
               }
-            ]
+            ],
+            "spacing": "1",
+            "showText": false,
+            "filter": false,
+            "bgColor": "#000000",
+            "filterBgColor": false,
+            "fullWidth": false,
+            "showBullets": false
           },
           "_anchor": "gallery1-u",
           "articleLayout": false,
@@ -1501,13 +1501,13 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "bgColor": "#000000",
+            "bgColorRadio": true,
             "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
           },
           "text": "Copyright (c) 2017-2018 Filip Linhart."
         }
@@ -1579,12 +1579,6 @@
           "_name": "menu",
           "_anchor": "menu-23",
           "_params": {
-            "logo": true,
-            "showBrand": true,
-            "hideButtons": false,
-            "sticky": true,
-            "collapsed": true,
-            "transparent": true,
             "bgColor": "#000000",
             "fontSize": "0.9",
             "fontName": {
@@ -1593,7 +1587,13 @@
               "css": "'Source Sans Pro', sans-serif"
             },
             "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor"
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
           },
           "logo": {
             "image": {
@@ -1621,23 +1621,23 @@
           "_name": "header1",
           "_anchor": "header1-h",
           "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "showArrow": true,
-            "contentAlign": "center",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/obrzek231-2000x1376-5.jpg",
             "parallax": true,
-            "bgColorRadio": false,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/obrzek231-2000x1376-5.jpg",
             "bgColor": "#a07e49",
-            "bgVideoRadio": false,
+            "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
+            "bgVideoRadio": false,
             "overlay": true,
+            "overlayOpacity": "0.3",
             "overlayColor": "#000",
-            "overlayOpacity": "0.3"
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
           },
           "title": "MONT BLANC",
           "text": "Visited Mont Blanc with my friends in 2012. When we reached the Aiguille du Midi....by the cable car..., the views were breathtaking.",
@@ -1649,15 +1649,8 @@
           ],
           "_name": "gallery1",
           "_params": {
-            "showBullets": false,
-            "fullWidth": false,
-            "spacing": "1",
             "paddingTop": 0,
             "paddingBottom": 0,
-            "filterBgColor": false,
-            "bgColor": "#000000",
-            "showText": false,
-            "filter": false,
             "images": [
               {
                 "tags": "Awesome",
@@ -1699,7 +1692,14 @@
                 "caption": "Type caption here",
                 "active": true
               }
-            ]
+            ],
+            "spacing": "1",
+            "showText": false,
+            "filter": false,
+            "bgColor": "#000000",
+            "filterBgColor": false,
+            "fullWidth": false,
+            "showBullets": false
           },
           "_anchor": "gallery1-i",
           "articleLayout": false,
@@ -1715,13 +1715,13 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "bgColor": "#000000",
+            "bgColorRadio": true,
             "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
           },
           "text": "Copyright (c) 2017-2018 Filip Linhart."
         }
@@ -1794,12 +1794,6 @@
           "_name": "menu",
           "_anchor": "menu-23",
           "_params": {
-            "logo": true,
-            "showBrand": true,
-            "hideButtons": false,
-            "sticky": true,
-            "collapsed": true,
-            "transparent": true,
             "bgColor": "#000000",
             "fontSize": "0.9",
             "fontName": {
@@ -1808,7 +1802,13 @@
               "css": "'Source Sans Pro', sans-serif"
             },
             "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor"
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
           },
           "logo": {
             "image": {
@@ -1836,23 +1836,23 @@
           "_name": "header1",
           "_anchor": "header1-1q",
           "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "showArrow": true,
-            "contentAlign": "center",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/160816-vietnam2016-fli-02570257-1.jpg",
             "parallax": true,
-            "bgColorRadio": false,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/160816-vietnam2016-fli-02570257-1.jpg",
             "bgColor": "#a07e49",
-            "bgVideoRadio": false,
+            "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
+            "bgVideoRadio": false,
             "overlay": true,
+            "overlayOpacity": 0.5,
             "overlayColor": "#000",
-            "overlayOpacity": 0.5
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
           },
           "title": "VIETNAM",
           "text": "Vietnam is a country of neverending hospitality, friendliness and great food. We visited Vietnam in 2016 and enjoyed each kilometer of our 2 700 km long journey.",
@@ -1864,15 +1864,8 @@
           ],
           "_name": "gallery1",
           "_params": {
-            "showBullets": false,
-            "fullWidth": false,
-            "spacing": "1",
             "paddingTop": 0,
             "paddingBottom": 0,
-            "filterBgColor": false,
-            "bgColor": "#000000",
-            "showText": false,
-            "filter": false,
             "images": [
               {
                 "tags": "Animated",
@@ -2114,7 +2107,14 @@
                 "caption": "Type caption here",
                 "active": true
               }
-            ]
+            ],
+            "spacing": "1",
+            "showText": false,
+            "filter": false,
+            "bgColor": "#000000",
+            "filterBgColor": false,
+            "fullWidth": false,
+            "showBullets": false
           },
           "_anchor": "gallery1-1j",
           "articleLayout": false,
@@ -2130,13 +2130,13 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "bgColor": "#000000",
+            "bgColorRadio": true,
             "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
           },
           "text": "Copyright (c) 2017-2018 Filip Linhart."
         }
@@ -2209,12 +2209,6 @@
           "_name": "menu",
           "_anchor": "menu-23",
           "_params": {
-            "logo": true,
-            "showBrand": true,
-            "hideButtons": false,
-            "sticky": true,
-            "collapsed": true,
-            "transparent": true,
             "bgColor": "#000000",
             "fontSize": "0.9",
             "fontName": {
@@ -2223,7 +2217,13 @@
               "css": "'Source Sans Pro', sans-serif"
             },
             "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor"
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
           },
           "logo": {
             "image": {
@@ -2259,25 +2259,25 @@
           },
           "_anchor": "msg-box5-2i",
           "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "inverse": true,
             "imageSize": "32",
             "paddingTop": "3",
             "paddingBottom": 0,
+            "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
             "bgColor": "#000000",
-            "bgVideoRadio": false,
+            "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
+            "bgVideoRadio": false,
             "overlay": false,
+            "overlayOpacity": 0.5,
             "overlayColor": "#fff",
-            "overlayOpacity": 0.5
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
           },
           "media": {
             "image": {
@@ -2307,74 +2307,74 @@
         },
         {
           "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery3",
           "_params": {
-            "showBullets": false,
-            "fullWidth": false,
-            "spacing": "1",
             "paddingTop": "0",
             "paddingBottom": "0",
-            "filterBgColor": true,
-            "bgColor": "#000000",
-            "showText": false,
-            "filter": false,
             "images": [
               {
+                "alt": "",
+                "title": "",
                 "tags": "Awesome",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/171225-huangshan-fli-6480648.jpg",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/171225-huangshan-fli-6480648-800x530.jpg",
-                "alt": "",
-                "title": "",
+                "image": "@PROJECT_PATH@/assets/images/171225-huangshan-fli-6480648.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
               {
+                "alt": "",
+                "title": "",
                 "tags": "Awesome",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/25717537227-5c66a5bcda-o.jpg",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/25717537227-5c66a5bcda-o-800x530.jpg",
-                "alt": "",
-                "title": "",
+                "image": "@PROJECT_PATH@/assets/images/25717537227-5c66a5bcda-o.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
               {
-                "tags": "Responsive",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/180120-untitled-fli-4420442.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/180120-untitled-fli-4420442-800x530.jpg",
                 "alt": "",
                 "title": "",
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/180120-untitled-fli-4420442-800x530.jpg",
+                "image": "@PROJECT_PATH@/assets/images/180120-untitled-fli-4420442.jpg",
                 "caption": "Type caption here",
                 "active": true
               },
               {
-                "tags": "Creative",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/180120-untitled-fli-3890389.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/180120-untitled-fli-3890389-800x530.jpg",
                 "alt": "",
                 "title": "",
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/180120-untitled-fli-3890389-800x530.jpg",
+                "image": "@PROJECT_PATH@/assets/images/180120-untitled-fli-3890389.jpg",
                 "caption": "Type caption here",
                 "active": false
               }
-            ]
+            ],
+            "spacing": "1",
+            "showText": false,
+            "filter": false,
+            "bgColor": "#000000",
+            "filterBgColor": true,
+            "fullWidth": false,
+            "showBullets": false
           },
-          "_tags": [
-            "Theme"
-          ],
+          "_anchor": "gallery3-2s",
           "articleLayout": false,
-          "allItem": "All",
-          "_name": "gallery3",
-          "_anchor": "gallery3-2s"
+          "allItem": "All"
         },
         {
           "_inherit": "social-buttons2",
@@ -2395,13 +2395,13 @@
             "paddingTop": "0",
             "paddingBottom": "0",
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
             "bgColor": "#000000",
+            "bgColorRadio": true,
             "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222"
           },
           "text": "FOLLOW MY WORK",
           "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" href=\"https://www.facebook.com/FikLinci?ref=bookmarks\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/filiplinhart/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://hk.linkedin.com/in/filiplinhart\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-linkedin\"></i></a>   "
@@ -2416,13 +2416,13 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "bgColor": "#000000",
+            "bgColorRadio": true,
             "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
           },
           "text": "Copyright (c) 2017-2018 Filip Linhart."
         }
@@ -2495,12 +2495,6 @@
           "_name": "menu",
           "_anchor": "menu-g",
           "_params": {
-            "logo": true,
-            "showBrand": true,
-            "hideButtons": false,
-            "sticky": true,
-            "collapsed": true,
-            "transparent": true,
             "bgColor": "#000000",
             "fontSize": "0.9",
             "fontName": {
@@ -2509,7 +2503,13 @@
               "css": "'Source Sans Pro', sans-serif"
             },
             "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor"
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
           },
           "logo": {
             "image": {
@@ -2545,19 +2545,19 @@
           },
           "_anchor": "form1-1g",
           "_params": {
-            "showTitle": true,
-            "showSubTitle": true,
             "labelsColor": "#efefef",
             "paddingTop": "3",
             "paddingBottom": "1",
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "bgColor": "#000000",
+            "bgColorRadio": true,
             "overlay": false,
+            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "showTitle": true,
+            "showSubTitle": true
           },
           "title": "ANY FEEDBACK? IDEAS? OR WANT TO CONNECT?",
           "subtitle": "<br>Thank you for leaving your feedback or comments on my work. Appreciate any ideas on new projects, joint-projects or workshops. If you want to connect, you can follow my&nbsp;<a href=\"https://www.instagram.com/filip.linhart/\" target=\"_blank\" class=\"text-primary\">Instagram</a>&nbsp;or <a href=\"https://www.facebook.com/skrosnou.cz/?ref=br_rs\" target=\"_blank\" class=\"text-primary\">Facebook </a>or just leave youre message below. Thank you very much!",
@@ -2600,13 +2600,13 @@
             "paddingTop": 2,
             "paddingBottom": 2,
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "bgColor": "#000000",
+            "bgColorRadio": true,
             "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
           },
           "text": "Copyright (c) 2017-2018 Filip Linhart."
         }
@@ -2679,12 +2679,6 @@
           "_name": "menu",
           "_anchor": "menu-23",
           "_params": {
-            "logo": true,
-            "showBrand": true,
-            "hideButtons": false,
-            "sticky": true,
-            "collapsed": true,
-            "transparent": true,
             "bgColor": "#000000",
             "fontSize": "0.9",
             "fontName": {
@@ -2693,7 +2687,13 @@
               "css": "'Source Sans Pro', sans-serif"
             },
             "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor"
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
           },
           "logo": {
             "image": {
@@ -2721,23 +2721,23 @@
           "_name": "header1",
           "_anchor": "header1-20",
           "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "showArrow": false,
-            "contentAlign": "center",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/dsc.jpg",
             "parallax": true,
-            "bgColorRadio": false,
+            "bgImageRadio": true,
+            "showArrow": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/dsc.jpg",
             "bgColor": "#a07e49",
-            "bgVideoRadio": false,
+            "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
+            "bgVideoRadio": false,
             "overlay": false,
+            "overlayOpacity": 0.5,
             "overlayColor": "#000",
-            "overlayOpacity": 0.5
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
           },
           "title": "HONG KONG",
           "text": "Of life in our current home - Hong Kong.&nbsp;",
@@ -2749,15 +2749,8 @@
           ],
           "_name": "gallery1",
           "_params": {
-            "showBullets": true,
-            "fullWidth": false,
-            "spacing": "1",
             "paddingTop": 0,
             "paddingBottom": 0,
-            "filterBgColor": false,
-            "bgColor": "#000000",
-            "showText": false,
-            "filter": false,
             "images": [
               {
                 "tags": "Awesome",
@@ -2859,7 +2852,14 @@
                 "caption": "Type caption here",
                 "active": true
               }
-            ]
+            ],
+            "spacing": "1",
+            "showText": false,
+            "filter": false,
+            "bgColor": "#000000",
+            "filterBgColor": false,
+            "fullWidth": false,
+            "showBullets": true
           },
           "_anchor": "gallery1-21",
           "articleLayout": false,
@@ -2875,13 +2875,13 @@
             "paddingTop": 2,
             "paddingBottom": 2,
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "bgColor": "#000000",
+            "bgColorRadio": true,
             "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
           },
           "text": "Copyright (c) 2017-2018 Filip Linhart."
         }
@@ -2945,7 +2945,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#ffffff!important"
+              "color": "#d14841!important"
             }
           },
           "_tags": [
@@ -2954,12 +2954,6 @@
           "_name": "menu",
           "_anchor": "menu-23",
           "_params": {
-            "logo": true,
-            "showBrand": true,
-            "hideButtons": false,
-            "sticky": true,
-            "collapsed": true,
-            "transparent": true,
             "bgColor": "#000000",
             "fontSize": "0.9",
             "fontName": {
@@ -2968,7 +2962,13 @@
               "css": "'Source Sans Pro', sans-serif"
             },
             "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor"
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
           },
           "logo": {
             "image": {
@@ -2996,24 +2996,24 @@
           "_name": "header2",
           "_anchor": "header2-1y",
           "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "inverse": false,
-            "showArrow": false,
             "imageSize": "55",
+            "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/170107-philippines-fli.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
             "bgColor": "#2e2e2e",
-            "bgVideoRadio": false,
+            "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
+            "bgVideoRadio": false,
             "overlay": true,
+            "overlayOpacity": "0.4",
             "overlayColor": "#000",
-            "overlayOpacity": "0.4"
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": false
           },
           "media": {
             "image": {
@@ -3040,26 +3040,6 @@
           "title": "&nbsp;Our new travel blog &nbsp;Skrosnou.cz&nbsp;",
           "text": "Kate and I write about our life in Hong Kong, travelling in Asia, all kind of experiences and learnings.&nbsp;<br><br>Currently only in Czech language.<br>English is coming soon! &nbsp;&nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"http://skrosnou.cz\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">READ MORE</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer1",
-          "_anchor": "footer1-2f",
-          "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#000000",
-            "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
-          },
-          "text": "Copyright (c) 2017-2018 Filip Linhart."
         }
       ]
     },
@@ -3092,27 +3072,27 @@
           "_name": "features4",
           "_anchor": "features4-2c",
           "_params": {
+            "iconsBgColor": "#b8312f",
+            "paddingTop": "3",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": 3,
             "showImages": true,
             "showTitles": true,
             "showSubtitles": false,
             "ShowTexts": true,
-            "showButtons": false,
-            "iconsBgColor": "#b8312f",
-            "paddingTop": "3",
-            "paddingBottom": "1",
-            "columns": 3,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#000000",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "showButtons": false
           },
           "media1": {
             "iconFont": {
@@ -3223,18 +3203,18 @@
           "_name": "form2",
           "_anchor": "form2-2d",
           "_params": {
-            "showTitle": true,
-            "showSubTitle": true,
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "bgColor": "#000000",
+            "bgColorRadio": true,
             "overlay": false,
+            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "showTitle": true,
+            "showSubTitle": true
           },
           "title": "I want this art in my library, office, collection, living room, bed room ...",
           "subtitle": "Leave your email address below so that I can contact you and better understand your needs. All my products are bespoke and I personally make sure everything is smooth and as you wish! Leaving your email address is free and is not considered as binding offer.<br>",
@@ -3312,12 +3292,6 @@
           "_name": "menu",
           "_anchor": "menu-23",
           "_params": {
-            "logo": true,
-            "showBrand": true,
-            "hideButtons": false,
-            "sticky": true,
-            "collapsed": true,
-            "transparent": true,
             "bgColor": "#000000",
             "fontSize": "0.9",
             "fontName": {
@@ -3326,7 +3300,13 @@
               "css": "'Source Sans Pro', sans-serif"
             },
             "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor"
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
           },
           "logo": {
             "image": {
@@ -3357,13 +3337,13 @@
             "paddingTop": 2,
             "paddingBottom": 2,
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "bgColor": "#000000",
+            "bgColorRadio": true,
             "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
           },
           "text": "Copyright (c) 2017-2018 Filip Linhart."
         }
@@ -3437,13 +3417,8 @@
             "Theme"
           ],
           "_name": "menu",
+          "_anchor": "menu-2o",
           "_params": {
-            "logo": true,
-            "showBrand": true,
-            "hideButtons": false,
-            "sticky": true,
-            "collapsed": true,
-            "transparent": true,
             "bgColor": "#000000",
             "fontSize": "0.9",
             "fontName": {
@@ -3452,7 +3427,13 @@
               "css": "'Source Sans Pro', sans-serif"
             },
             "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor"
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
           },
           "logo": {
             "image": {
@@ -3471,41 +3452,40 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">FILIP LINHART PHOTOGRAPHY</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"filiplinhart.cz\" aria-expanded=\"true\">GALLERIES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Austria.html\">Austria</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"China.html\">China</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Budapest.html\">Budapest</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MontBlanc.html\">Mont Blanc</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Thailand.html\">Thailand</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Vietnam.html\">Vietnam</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"HongKong.html\" aria-expanded=\"false\">Hong Kong</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Instragram.html\" aria-expanded=\"false\">INSTAGRAM</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\" aria-expanded=\"false\">ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contact.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Blog.html\" aria-expanded=\"false\">BLOG</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"OrderNow.html\">ORDER</a></li>",
-          "_anchor": "menu-2o"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"filiplinhart.cz\" aria-expanded=\"true\">GALLERIES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Austria.html\">Austria</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"China.html\">China</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Budapest.html\">Budapest</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MontBlanc.html\">Mont Blanc</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Thailand.html\">Thailand</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Vietnam.html\">Vietnam</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"HongKong.html\" aria-expanded=\"false\">Hong Kong</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Instragram.html\" aria-expanded=\"false\">INSTAGRAM</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\" aria-expanded=\"false\">ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contact.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Blog.html\" aria-expanded=\"false\">BLOG</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"OrderNow.html\">ORDER</a></li>"
         },
         {
-          "_params": {
-            "token": "4101372434.727bfe1.d4a953b75ded40dbb22da859b1010f02",
-            "showTitle": false,
-            "layoutGridRadio": true,
-            "imagesPerRowGrid": "5",
-            "rows": "4",
-            "showMoreButton": false,
-            "layoutSliderRadio": false,
-            "imagesPerRowSlider": 4,
-            "spacing": "7",
-            "fullWidth": true,
-            "paddingTop": "2",
-            "paddingBottom": 1,
-            "bgColorRadio": true,
-            "bgColor": "#000000",
-            "bgImageRadio": false,
-            "bgImage": "@ADDONS_PATH@/instagram-feed/instagram-feed-block/assets/instagram-background.jpg",
-            "overlay": false,
-            "overlayColor": "#efefef",
-            "overlayOpacity": 0.6
-          },
-          "title": "Instagram Feed",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-md btn-primary\" href=\"#\">Show more</a>",
-          "display2": "display-2",
-          "display4": "display-4",
           "alias": "instagram-feed",
           "_tags": [
             "Extension"
           ],
           "_name": "instagram-feed-block",
-          "_anchor": "instagram-feed-block-2q"
+          "_anchor": "instagram-feed-block-2q",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": 1,
+            "imagesPerRowGrid": "5",
+            "layoutGridRadio": true,
+            "rows": "4",
+            "imagesPerRowSlider": 4,
+            "layoutSliderRadio": false,
+            "spacing": "7",
+            "fullWidth": true,
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "bgImage": "@ADDONS_PATH@/instagram-feed/instagram-feed-block/assets/instagram-background.jpg",
+            "bgImageRadio": false,
+            "token": "4101372434.727bfe1.d4a953b75ded40dbb22da859b1010f02",
+            "overlay": false,
+            "overlayOpacity": 0.6,
+            "overlayColor": "#efefef",
+            "showTitle": false,
+            "showMoreButton": false
+          },
+          "title": "Instagram Feed",
+          "display2": "display-2",
+          "display4": "display-4",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-md btn-primary\" href=\"#\">Show more</a>"
         }
       ]
     }
