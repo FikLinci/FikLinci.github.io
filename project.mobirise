@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "About.html",
+    "currentPage": "index.html",
     "name": "Filip Linhart Portfolio",
     "theme": {
       "name": "mobirise3",
@@ -26,10 +26,14 @@
     "uniqCompNum": 101,
     "versionPublish": "4.7.2",
     "favicon": "",
-    "noImageResize": "true",
+    "noImageResize": "",
     "google-analytics": "<script>\r\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\r\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\r\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\r\n  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\r\n\r\n  ga('create', 'UA-88040582-1', 'auto');\r\n  ga('send', 'pageview');\r\n\r\n</script>",
     "path": "@PROJECT_PATH@",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "siteUrl": "https://www.xml-sitemaps.com/download/filiplinhart.cz-e94b4bdb/sitemap.xml?view=1",
+    "sitemapSwitcherAuto": "on",
+    "cookiesAlert": "",
+    "sitemapSwitcher": "on"
   },
   "pages": {
     "index.html": {
@@ -588,7 +592,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#d14841!important"
+              "color": "#ffffff!important"
             }
           },
           "_tags": [
@@ -2323,12 +2327,24 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/40431768432-23dd331388-k.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/40431768432-23dd331388-k-800x530.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/25717537227-aadefd610e-k.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/25717537227-aadefd610e-k-800x530.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Responsive",
@@ -2349,18 +2365,6 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/180120-untitled-fli-3890389.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/180120-untitled-fli-3890389-800x530.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Awesome",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/40431768432-23dd331388-k.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/40431768432-23dd331388-k-800x530.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -3410,7 +3414,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#d14841!important"
+              "color": "#ffffff!important"
             }
           },
           "_tags": [

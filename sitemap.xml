@@ -1,49 +1,41 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-
-<url>
-  <loc>http://filiplinhart.cz/</loc>
-  <lastmod>2016-11-27T02:34:54+00:00</lastmod>
-</url>
-<url>
-  <loc>http://filiplinhart.cz/index.html</loc>
-  <lastmod>2016-11-27T02:34:54+00:00</lastmod>
-</url>
-<url>
-  <loc>http://filiplinhart.cz/Austria.html</loc>
-  <lastmod>2016-11-27T02:34:54+00:00</lastmod>
-</url>
-<url>
-  <loc>http://filiplinhart.cz/China.html</loc>
-  <lastmod>2016-11-27T02:34:54+00:00</lastmod>
-</url>
-<url>
-  <loc>http://filiplinhart.cz/Budapest.html</loc>
-  <lastmod>2016-11-27T02:34:54+00:00</lastmod>
-</url>
-<url>
-  <loc>http://filiplinhart.cz/MontBlanc.html</loc>
-  <lastmod>2016-11-27T02:34:54+00:00</lastmod>
-</url>
-<url>
-  <loc>http://filiplinhart.cz/Thailand.html</loc>
-  <lastmod>2016-11-27T02:34:54+00:00</lastmod>
-</url>
-<url>
-  <loc>http://filiplinhart.cz/Vietnam.html</loc>
-  <lastmod>2016-11-27T02:34:54+00:00</lastmod>
-</url>
-<url>
-  <loc>http://filiplinhart.cz/About.html</loc>
-  <lastmod>2016-11-27T02:34:54+00:00</lastmod>
-</url>
-<url>
-  <loc>http://filiplinhart.cz/Contact.html</loc>
-  <lastmod>2016-11-27T02:34:54+00:00</lastmod>
-</url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<url>
+		<loc>https://www.xml-sitemaps.xn--com/download/filiplinhart-.xn--cz-e94b4bdb/sitemap-.xn--xml?view=1-/index.html</loc>
+	</url>
+	<url>
+		<loc>https://www.xml-sitemaps.xn--com/download/filiplinhart-.xn--cz-e94b4bdb/sitemap-.xn--xml?view=1-/Austria.html</loc>
+	</url>
+	<url>
+		<loc>https://www.xml-sitemaps.xn--com/download/filiplinhart-.xn--cz-e94b4bdb/sitemap-.xn--xml?view=1-/China.html</loc>
+	</url>
+	<url>
+		<loc>https://www.xml-sitemaps.xn--com/download/filiplinhart-.xn--cz-e94b4bdb/sitemap-.xn--xml?view=1-/Budapest.html</loc>
+	</url>
+	<url>
+		<loc>https://www.xml-sitemaps.xn--com/download/filiplinhart-.xn--cz-e94b4bdb/sitemap-.xn--xml?view=1-/Thailand.html</loc>
+	</url>
+	<url>
+		<loc>https://www.xml-sitemaps.xn--com/download/filiplinhart-.xn--cz-e94b4bdb/sitemap-.xn--xml?view=1-/MontBlanc.html</loc>
+	</url>
+	<url>
+		<loc>https://www.xml-sitemaps.xn--com/download/filiplinhart-.xn--cz-e94b4bdb/sitemap-.xn--xml?view=1-/Vietnam.html</loc>
+	</url>
+	<url>
+		<loc>https://www.xml-sitemaps.xn--com/download/filiplinhart-.xn--cz-e94b4bdb/sitemap-.xn--xml?view=1-/About.html</loc>
+	</url>
+	<url>
+		<loc>https://www.xml-sitemaps.xn--com/download/filiplinhart-.xn--cz-e94b4bdb/sitemap-.xn--xml?view=1-/Contact.html</loc>
+	</url>
+	<url>
+		<loc>https://www.xml-sitemaps.xn--com/download/filiplinhart-.xn--cz-e94b4bdb/sitemap-.xn--xml?view=1-/HongKong.html</loc>
+	</url>
+	<url>
+		<loc>https://www.xml-sitemaps.xn--com/download/filiplinhart-.xn--cz-e94b4bdb/sitemap-.xn--xml?view=1-/Blog.html</loc>
+	</url>
+	<url>
+		<loc>https://www.xml-sitemaps.xn--com/download/filiplinhart-.xn--cz-e94b4bdb/sitemap-.xn--xml?view=1-/OrderNow.html</loc>
+	</url>
+	<url>
+		<loc>https://www.xml-sitemaps.xn--com/download/filiplinhart-.xn--cz-e94b4bdb/sitemap-.xn--xml?view=1-/Instragram.html</loc>
+	</url>
 </urlset>
